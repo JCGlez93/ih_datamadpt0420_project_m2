@@ -2,7 +2,7 @@
 
 This projects goal is to understand the logic of the diamonds values. It is divided in 2 main parts : descriptive analysis and recommendation dashboard.
 
-Descriptive analysis:
+*Descriptive analysis*:
 
 It does show the main stats that helps us to understand the composition of the dataset. Moreover, it supports some of the following insights with visualisations.
 
@@ -15,3 +15,8 @@ It does show the main stats that helps us to understand the composition of the d
 - The price of the diamonds grows exponentially from 4 mm long. In addition , after 9 mm long the price does not change that much.
 - Most of the diamonds have a width between 3-9 mm
 - The price grows exponentially between 2-5mm depth
+
+
+*Recommendations*
+
+Tableau : link
