@@ -19,4 +19,4 @@ It does show the main stats that helps us to understand the composition of the d
 
 *Recommendations*
 
-Tableau : link
+Tableau link : https://public.tableau.com/profile/jc22592658#!/vizhome/TableauDataDashboard_15962226564740/Recommendationsforthemostsuitablediamond?publish=yes
